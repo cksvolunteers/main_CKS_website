@@ -20,8 +20,8 @@ const HandleClick = btn_left.onclick = () => {
         i = 0
     }
     btn_right.onclick = () => {
-        slides.style.backgroundImage = `url(${img.reverse()[i]})`
-        i - 1;
+        slides.style.backgroundImage = `url(${img[i]})`
+        i++;
         if (i === img.length) {
             i = 0
         }
