@@ -1,0 +1,16 @@
+Updating e7d1de9..11292ad
+Fast-forward
+ css/style.min.css                                  |   2 +-
+ gallery.html                                       | 236 +++++++++------------
+ img/WhatsApp_Image_2020-12-12_at_19.28.00.jpeg.jpg | Bin 121283 -> 0 bytes
+ img/WhatsApp_Image_2020-12-12_at_19.28.02_(1).jpeg | Bin 124986 -> 0 bytes
+ img/WhatsApp_Image_2020-12-12_at_19.28.08.jpeg.jpg | Bin 114662 -> 0 bytes
+ index.html                                         | 194 ++++++++---------
+ .../kica-logo.png                                  | Bin
+ ...1926212589024-removebg-preview.png => kica.png} | Bin
+ 8 files changed, 196 insertions(+), 236 deletions(-)
+ delete mode 100644 img/WhatsApp_Image_2020-12-12_at_19.28.00.jpeg.jpg
+ delete mode 100644 img/WhatsApp_Image_2020-12-12_at_19.28.02_(1).jpeg
+ delete mode 100644 img/WhatsApp_Image_2020-12-12_at_19.28.08.jpeg.jpg
+ rename "img/\320\221\320\265\320\267 \320\270\320\274\320\265\320\275\320\270-1.png" => logotipes/kica-logo.png (100%)
+ rename logotipes/{photo5438211926212589024-removebg-preview.png => kica.png} (100%)
